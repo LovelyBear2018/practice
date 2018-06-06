@@ -1,4 +1,4 @@
-package com.lzx.java.scheme.singleton;
+package com.lzx.java.designpattern.singleton;
 
 /**
  * 懒汉式-静态内部类

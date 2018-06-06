@@ -2,6 +2,12 @@ package com.lzx.java.base.thread.deadlock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * 死锁
+ * @author liuzhixiong
+ * 2018年05月25日10:11:40
+ */
+
 public class DeadLock_1 extends Thread{
 	
 	static ReentrantLock lock1 = new ReentrantLock();

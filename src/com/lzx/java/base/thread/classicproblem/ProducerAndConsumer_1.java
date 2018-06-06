@@ -3,6 +3,12 @@ package com.lzx.java.base.thread.classicproblem;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 生产者消费者问题(使用wait,notifyAll实现)
+ * @author liuzhixiong
+ * 2018年05月25日16:02:54
+ */
+
 class Storage {
 	private static final int MAX_SIZE = 100;
 	private static List<String> queue = new LinkedList<String>();
