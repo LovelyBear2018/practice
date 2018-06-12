@@ -23,6 +23,7 @@ public class PostOrder_Recur {
 		TreeNode node4 = new TreeNode(5);
 		TreeNode node5 = new TreeNode(6);
 		TreeNode node6 = new TreeNode(7);
+		TreeNode node7 = new TreeNode(8);
 		
 		root.setLeft(node1);
 		root.setRight(node2);
@@ -32,6 +33,8 @@ public class PostOrder_Recur {
 		
 		node2.setLeft(node5);
 		node2.setRight(node6);
+		
+		node3.setLeft(node7);
 		
 		postOrder(root);
 		
