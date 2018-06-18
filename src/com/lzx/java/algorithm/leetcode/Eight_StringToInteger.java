@@ -12,6 +12,7 @@ package com.lzx.java.algorithm.leetcode;
 public class Eight_StringToInteger {
 	
 	public static void main(String[] args) {
+		System.out.println(Integer.MAX_VALUE);
 		System.out.println(new Eight_StringToInteger().myAtoi("   -42"));
 	}
 	

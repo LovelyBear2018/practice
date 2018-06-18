@@ -23,7 +23,7 @@ public class Nineteen_RemoveNNodeFromEnd {
 		head3.next = head4;
 		head4.next = head5;
 		
-		ListNode resHead = new Nineteen_RemoveNNodeFromEnd().removeNthFromEnd(head, 1);
+		ListNode resHead = new Nineteen_RemoveNNodeFromEnd().removeNthFromEnd(head, 6);
 		while(resHead != null){
 			System.out.println(resHead.val);
 			resHead = resHead.next;
