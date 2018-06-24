@@ -1,21 +1,17 @@
 package com.lzx.java.algorithm.tree;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 import com.lzx.java.node.TreeNode;
 
 /**
- * 非递归中序遍历二叉树
+ * 二叉树某节点的下一个节点
  * @author liuzhixiong
- * 2018年06月11日17:05:35
+ * 2018年06月23日23:22:36
  */
 
-public class InOrder_NonRecur {
+public class NextTreeNode {
 
-	private static List<Integer> list = new ArrayList<Integer>();
-	
 	public static void main(String[] args) {
 		TreeNode root = new TreeNode(1);
 		TreeNode node1 = new TreeNode(2);
@@ -34,14 +30,16 @@ public class InOrder_NonRecur {
 		node2.setLeft(node5);
 		node2.setRight(node6);
 		
-		inOrder(root);
+		int res = preOrder(root, 6);
 		
-		System.out.println(list.toString());
+		System.out.println("res = " + res);
 	}
 	
-	public static void inOrder(TreeNode root){
+	public static int preOrder(TreeNode root, int ele){
 		Stack<TreeNode> stack = new Stack<TreeNode>();
 		
+		boolean b = false;
+		int res = -1;
 		while(!stack.isEmpty() || root != null){
 			while(root != null){
 				stack.push(root);
@@ -50,10 +48,18 @@ public class InOrder_NonRecur {
 			
 			if(!stack.isEmpty()){
 				root = stack.pop();
-				list.add(root.getVal());
+				if(b){
+					res = root.getVal();
+					break;
+				}
+				if(root.getVal() == ele){
+					b = true;
+				}
 				root = root.getRight();
 			}
 		}
+		
+		return res;
 	}
 	
 }

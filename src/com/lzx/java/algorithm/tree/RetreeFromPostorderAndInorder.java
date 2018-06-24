@@ -1,4 +1,4 @@
-package com.lzx.java.algorithm.search;
+package com.lzx.java.algorithm.tree;
 
 import java.util.Arrays;
 import java.util.LinkedList;

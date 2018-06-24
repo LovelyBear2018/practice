@@ -1,4 +1,4 @@
-package com.lzx.java.algorithm.search;
+package com.lzx.java.algorithm.tree;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -24,7 +24,7 @@ public class RetreeFromPreorderAndInorder {
 		while(!queue.isEmpty()){
 			TreeNode node = queue.pop();
 			
-			System.out.println(node.getVal());
+			System.out.print(node.getVal() + " ");
 			
 			if(node.getLeft() != null){
 				queue.add(node.getLeft());
@@ -43,7 +43,7 @@ public class RetreeFromPreorderAndInorder {
 		}
 		
 		if(preSort.length != inSort.length){
-			throw new Exception("不满足条件的非法输入！");  
+			throw new Exception("不满足条件的非法输入!");  
 		}
 		
 		TreeNode root = null;
