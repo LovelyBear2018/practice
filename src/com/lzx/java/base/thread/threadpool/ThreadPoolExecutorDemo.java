@@ -26,12 +26,12 @@ class MyTask implements Runnable {
      
     @Override
     public void run() {
-        System.out.println("正在执行task "+taskNum);
+        System.out.println("正在执行task " + taskNum);
         try {
             Thread.sleep(4000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("task "+taskNum+"执行完毕");
+        System.out.println("task " + taskNum + "执行完毕");
     }
 }

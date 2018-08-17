@@ -59,6 +59,8 @@ public class Proxy {
         File f = new File(fileName);  
         FileWriter fw = new FileWriter(f);  
         fw.write(srcCode);  
+        
+        
         fw.flush();  
         fw.close();  
 
