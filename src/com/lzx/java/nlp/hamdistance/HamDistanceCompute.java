@@ -13,8 +13,8 @@ public class HamDistanceCompute {
 //		
 //		int distance = hamdistance_Number(a, b);
 //		System.out.println("distance of number is: " + distance);
-		String a = "0000111001110010110001110000100010001010111110110011111011011001";
-		String b = "0000101000010011011101100000100010011000111110101011101011011001";
+		String a = "1000101100011010001000110000100000000000011011100001101010000100";
+		String b = "1010111110010110011000110000100000010110111101110011101110000100";
 		int distance = hamdistance_String(a, b);
 		System.out.println("distance of string is: " + distance);
 	}

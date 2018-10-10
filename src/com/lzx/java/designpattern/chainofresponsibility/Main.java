@@ -7,7 +7,7 @@ public class Main {
  
      public static void main(String[] args) {
  
-          Request request = new Request.Builder().setName("张三").setDays(5)
+          Request request = new Request.Builder().setName("张三").setDays(1)
                    .setReason("事假").build();
           ChainOfResponsibilityClient client = new ChainOfResponsibilityClient();
           Result result = client.execute(request);
