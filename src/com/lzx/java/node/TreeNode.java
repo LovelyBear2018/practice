@@ -7,15 +7,30 @@ package com.lzx.java.node;
  */
 
 public class TreeNode {
-	
-	TreeNode left;
-	TreeNode right;
+
+	public int id;
+	public String name;
+	public TreeNode left;
+	public TreeNode right;
 	int val;
 	
 	public TreeNode(int val){
 		this.val = val;
 	}
-	
+
+	public TreeNode(int id, String name) {
+		this.id = id;
+		this.name = name;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
 	public TreeNode getLeft() {
 		return left;
 	}
