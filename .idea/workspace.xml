@@ -2,21 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55dde866-fc18-4efb-b21f-a87e14a2eb02" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/AddTwoLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/string/RemoveDuplicate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/string/ReverseString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/NumberOfTreeLeaveNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/NumberOfTreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/process/线程与进程比较" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/process/进程通信" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/banker/BankerClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/banker/TestBankerClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/base/thread/threadpool/FixedThreadPoolDemo.class" afterPath="$PROJECT_DIR$/out/production/practice/com/lzx/java/base/thread/threadpool/FixedThreadPoolDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/designpattern/strategy/Client.class" afterPath="$PROJECT_DIR$/out/production/practice/com/lzx/java/designpattern/strategy/Client.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/代理模式UML图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/array/MaxNumberofArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3_2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode226_InvertBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode8_StringToInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/RightFirstMaxArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/SetMatrixZero.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/map/HashMapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/DynamcClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/Proxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/ProxyInvocationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/RealSubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/Subject.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/Eight_StringToInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/Eleven_ContainMostWater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/Fifteen_3Sum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/FiftyThree_MaxSubArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/ForthSeven_Permutations2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/ForthSix_Permutations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/Nineteen_RemoveNNodeFromEnd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/OneHundredEleven_MinDepthOfBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/OneHundredFour_MaxDepthOfBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/OneHundredNinetyNine_BinaryTreeRightSideView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/OneHundredTen_BalanceTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/OneHundredTwelve_PathSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/OneHundredTwentyNinth_SumRootToLeave.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/One_TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/Sixteen_3SumClosest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/ThirtyNinth_CombinationSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/ThirtyOne_NextPermutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/Three_LongestSubstringWithoutRepeatingCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/TwentyOne_MergeTwoSortedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/leetcode/TwentySix_RemoveDupFromArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/base/shitf/LeftShift.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro6.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro8.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Eight_StringToInteger.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Eleven_ContainMostWater.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode11_ContainMostWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Fifteen_3Sum.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode15_3Sum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/FiftyThree_MaxSubArray.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode53_MaxSubArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/ForthSeven_Permutations2.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode47_Permutations2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/ForthSix_Permutations.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode46_Permutations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Nineteen_RemoveNNodeFromEnd.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode19_RemoveNNodeFromEnd.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/OneHundredEleven_MinDepthOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode111_MinDepthOfBinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/OneHundredFour_MaxDepthOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode104_MaxDepthOfBinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/OneHundredNinetyNine_BinaryTreeRightSideView.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode199_BinaryTreeRightSideView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/OneHundredTen_BalanceTree.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode110_BalanceTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/OneHundredTwelve_PathSum.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode112_PathSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/OneHundredTwentyNinth_SumRootToLeave.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode129_SumRootToLeave.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/One_TwoSum.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode1_TwoSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Sixteen_3SumClosest.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode16_3SumClosest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/ThirtyNinth_CombinationSum.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode39_CombinationSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/ThirtyOne_NextPermutation.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode31_NextPermutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Three_LongestSubstringWithoutRepeatingCharacters.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode3_LongestSubstringWithoutRepeatingCharacters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/TwentyOne_MergeTwoSortedList.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode21_MergeTwoSortedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/TwentySix_RemoveDupFromArray.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode26_RemoveDupFromArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/lzx/java/base/shitf/LeftShift.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/shift/LeftShift.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/jzoffer/Pro3.class" afterPath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/jzoffer/Pro3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/tree/BinarySearchTree.class" afterPath="$PROJECT_DIR$/out/production/practice/com/lzx/java/algorithm/tree/BinarySearchTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/base/thread/deadlock/DeadLock_1.class" afterPath="$PROJECT_DIR$/out/production/practice/com/lzx/java/base/thread/deadlock/DeadLock_1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice/com/lzx/java/designpattern/dynamicproxy/Proxy.class" afterPath="$PROJECT_DIR$/out/production/practice/com/lzx/java/designpattern/dynamicproxy/Proxy.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/base/thread/threadpool/FixedThreadPoolDemo.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/thread/threadpool/FixedThreadPoolDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/node/TreeNode.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/node/TreeNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/DeadLock_1.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/DeadLock_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/ChainOfResponsibilityClient.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/ChainOfResponsibilityClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Main.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/RealChain.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/RealChain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/designpattern/dynamicproxy/Proxy.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/dynamicproxy/Proxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzx/java/designpattern/dynamicproxy/TransactionHandler.java" afterPath="$PROJECT_DIR$/src/com/lzx/java/designpattern/dynamicproxy/TransactionHandler.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,28 +85,43 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="224" column="41" lean-forward="true" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lzx/java/node/TreeNode.java">
+      <file leaf-file-name="ChainOfResponsibilityClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/ChainOfResponsibilityClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="384">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupLeader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/GroupLeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealChain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/RealChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,6 +136,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put(</find>
+      <find>resize</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,41 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lzx/java/jvm/reflection/TestReflect.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Adaptee.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/AdapteeImp.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Adaptee.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/AdapteeImp.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Target.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Target.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Adapter_ClassLevel.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Adapter_ObjectLevel.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/classlevel/Client_ObjectLevel.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Client_ObjectLevel.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Source.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Ashili.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/ICar.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/SuperCar.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/FlyCar.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/WaterCar.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/AICar.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/CalPrice.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Orgnic.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Vip.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/SuperVip.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/GoldVip.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Player.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/banker/BankerClass.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/banker/TestBankerClass.java" />
         <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/string/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/com/lzx/java/base/thread/threadpool/FixedThreadPoolDemo.java" />
         <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/string/RemoveDuplicate.java" />
@@ -118,8 +161,49 @@
         <option value="$PROJECT_DIR$/src/com/lzx/java/base/process/InterProcessCommunication" />
         <option value="$PROJECT_DIR$/src/com/lzx/java/base/process/线程与进程比较" />
         <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/AddTwoLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/com/lzx/java/node/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/RightFirstMaxArray.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/SetMatrixZero.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/base/map/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/DeadLock_1.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/Subject.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/RealSubject.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/dynamicproxy/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/dynamicproxy/TransactionHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/ProxyInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy/DynamcClient.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/Eight_StringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro1.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3_2.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/array/MaxNumberofArray.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode8_StringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode11_ContainMostWater.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode15_3Sum.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode53_MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode47_Permutations2.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode46_Permutations.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode19_RemoveNNodeFromEnd.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode1_TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode111_MinDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode104_MaxDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode199_BinaryTreeRightSideView.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode110_BalanceTree.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode112_PathSum.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode129_SumRootToLeave.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode16_3SumClosest.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode39_CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode31_NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode3_LongestSubstringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode21_MergeTwoSortedList.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode26_RemoveDupFromArray.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode226_InvertBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/ChainOfResponsibilityClient.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/RealChain.java" />
       </list>
     </option>
   </component>
@@ -144,10 +228,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1310" />
-    <option name="y" value="28" />
-    <option name="width" value="1792" />
-    <option name="height" value="996" />
+    <option name="x" value="1295" />
+    <option name="y" value="87" />
+    <option name="width" value="1750" />
+    <option name="height" value="919" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -167,7 +251,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -199,8 +282,26 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node" />
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nlp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,15 +322,73 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chainofresponsibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lzx/java/designpattern/proxy" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,15 +402,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchTree">
-    <configuration default="false" name="NumberOfTreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Pro3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lzx.java.algorithm.tree.*" />
+          <option name="PATTERN" value="com.lzx.java.algorithm.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.tree.NumberOfTreeNode" />
+      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.jzoffer.Pro3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -264,14 +423,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="NumberOfTreeLeaveNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Pro3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lzx.java.algorithm.tree.*" />
+          <option name="PATTERN" value="com.lzx.java.algorithm.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.tree.NumberOfTreeLeaveNode" />
+      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.jzoffer.Pro3_2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -284,14 +443,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ResverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MaxNumberofArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lzx.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="com.lzx.java.algorithm.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.leetcode.ResverseList" />
+      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.array.MaxNumberofArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -304,14 +463,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="AddTwoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Pro8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lzx.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="com.lzx.java.algorithm.jzoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.leetcode.AddTwoLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.jzoffer.Pro8" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -324,14 +483,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.lzx.java.algorithm.tree.*" />
+          <option name="PATTERN" value="com.lzx.java.designpattern.chainofresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lzx.java.algorithm.tree.BinarySearchTree" />
+      <option name="MAIN_CLASS_NAME" value="com.lzx.java.designpattern.chainofresponsibility.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -732,19 +891,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NumberOfTreeNode" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NumberOfTreeLeaveNode" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ResverseList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AddTwoLinkedList" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Pro3" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Pro3_2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MaxNumberofArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Pro8" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AddTwoLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ResverseList" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NumberOfTreeLeaveNode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumberOfTreeNode" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Pro8" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MaxNumberofArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Pro3_2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Pro3" />
       </list>
     </recent_temporary>
   </component>
@@ -765,40 +924,50 @@
       <workItem from="1539133671174" duration="4265000" />
       <workItem from="1539688239874" duration="4539000" />
       <workItem from="1539767241407" duration="997000" />
-      <workItem from="1539827098396" duration="8143000" />
+      <workItem from="1539827098396" duration="8149000" />
+      <workItem from="1539933911146" duration="885000" />
+      <workItem from="1540291750800" duration="370000" />
+      <workItem from="1540366662683" duration="874000" />
+      <workItem from="1540464985332" duration="2127000" />
+      <workItem from="1540777631420" duration="430000" />
+      <workItem from="1540778067865" duration="3511000" />
+      <workItem from="1540788709836" duration="1249000" />
+      <workItem from="1540790422418" duration="1001000" />
+      <workItem from="1540807671663" duration="9613000" />
+      <workItem from="1540967037561" duration="3533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19358000" />
+    <option name="totallyTimeSpent" value="42957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1310" y="28" width="1792" height="996" extended-state="0" />
+    <frame x="1295" y="87" width="1750" height="919" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53207964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31318018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29566744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3971239" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.528416" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -816,7 +985,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -825,267 +994,238 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/AdapteeImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Client_ObjectLevel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/RightFirstMaxArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Client_ClassLevel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="208">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Adapter_ObjectLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Ashili.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/interfacelevel/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/GoldVip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/SuperVip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Vip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Orgnic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/CalPrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/strategy/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/wrapper/Adapter_ClassLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/banker/BankerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="171" column="21" lean-forward="true" selection-start-line="171" selection-start-column="21" selection-end-line="171" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/base/thread/deadlock/banker/TestBankerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/AICar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/FlyCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/WaterCar.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/SuperCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/decorator/ICar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/singleton/Singleton3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/singleton/Singleton4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/singleton/Singleton5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/singleton/Singleton6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402">
-          <caret line="136" column="17" lean-forward="false" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="87" column="34" lean-forward="false" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/string/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/string/RemoveDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#525#533#0" expanded="true" />
-          </folding>
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="453">
+          <caret line="47" column="43" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="47" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/array/MaxNumberofArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/AddTwoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode8_StringToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode11_ContainMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode53_MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode47_Permutations2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode46_Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode19_RemoveNNodeFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/string/MaxSubString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode1_TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode111_MinDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode104_MaxDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode110_BalanceTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode112_PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode129_SumRootToLeave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode16_3SumClosest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode39_CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode31_NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode3_LongestSubstringWithoutRepeatingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode26_RemoveDupFromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode21_MergeTwoSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode199_BinaryTreeRightSideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/LeetCode226_InvertBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/RetreeFromPostorderAndInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/RetreeFromPreorderAndInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -1093,125 +1233,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/base/thread/threadpool/FixedThreadPoolDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="318" column="31" lean-forward="false" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/InOrder_Recur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/InOrder_NonRecur.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/PreOrder_NonRecur.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/NumberOfTreeLeaveNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/NumberOfTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="63" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/base/process/线程与进程比较">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/base/process/进程通信">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="67">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/AddTwoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/leetcode/ResverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/node/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/jzoffer/Pro4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/algorithm/tree/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="224" column="41" lean-forward="true" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/effectivejava/第2条_NutritionFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-662">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Ratify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/ChainOfResponsibilityClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/GroupLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzx/java/designpattern/chainofresponsibility/RealChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>

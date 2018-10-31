@@ -1,51 +1,37 @@
 package com.lzx.java.algorithm.jzoffer;
 
 /**
- * 二维数组查找
- * @author liuzhixiong
- *2018年08月17日10:18:18
+ * 数组中重复的数字:在一个长度为n的数组里的所有数字都在0到n-1的范围内。 数组中某些数字是重复的，但不知道有几个数字是重复的。也不知道每个数字重复几次。请找出数组中任意一个重复的数字。
+ 例如，如果输入长度为7的数组{2,3,1,0,2,5,3}，那么对应的输出是重复的数字2或者3。
+ * Created by liuzhixiong on 2018/10/29.
  */
-
 public class Pro3 {
+    public static void main(String[] args) {
+        int[] array = new int[]{2,3,1,0,2,5,3};
+        int res = duplicate(array);
+        System.out.println(res);
+    }
 
-	public static boolean find(int[][] array, int number) {
-		if (array == null) {
-			return false;
-		}
-		int column = array[0].length - 1;
-		int row = 0;
-		while (row < array.length && column >= 0) {
-			if (array[row][column] == number) {
-				return true;
-			}
-			if (array[row][column] > number) {
-				column--;
-			} else {
-				row++;
-			}
-		}
-		return false;
-	}
-
-	public static void main(String args[]) {
-		int[][] testarray = new int[4][4];
-		testarray[0][0] = 1;
-		testarray[0][1] = 2;
-		testarray[0][2] = 8;
-		testarray[0][3] = 9;
-		testarray[1][0] = 2;
-		testarray[1][1] = 4;
-		testarray[1][2] = 9;
-		testarray[1][3] = 12;
-		testarray[2][0] = 4;
-		testarray[2][1] = 7;
-		testarray[2][2] = 10;
-		testarray[2][3] = 13;
-		testarray[3][0] = 6;
-		testarray[3][1] = 8;
-		testarray[3][2] = 11;
-		testarray[3][3] = 15;
-		System.out.println(find(testarray, 1));
-	}
-
+    private static int duplicate(int[] array){
+        if(array == null || array.length == 0){
+            return -1;
+        }
+        int length = array.length;
+        for(int i=0; i<length; i++){
+            if(array[i] < 0 || array[i] > length-1){
+                return -1;
+            }
+        }
+        for(int i=0; i<length; i++){
+            while(array[i] != i) {
+                if(array[i] == array[array[i]]){
+                    return array[i];
+                }
+                int temp = array[i];
+                array[i] = array[temp];
+                array[temp] = temp;
+            }
+        }
+        return -1;
+    }
 }

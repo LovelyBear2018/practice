@@ -12,8 +12,8 @@ public class TransactionHandler implements InvocationHandler {
     }  
 
     @Override  
-    public void invoke(Object o, Method m) {  
-        System.out.println("开启事务.....");  
+    public void invoke(Object o, Method m) {
+        System.out.println("开启事务.....");
         try {  
             m.invoke(target);  
         } catch (Exception e) {  

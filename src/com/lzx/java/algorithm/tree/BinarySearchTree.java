@@ -16,7 +16,7 @@ public class BinarySearchTree {
         TreeNode current = root;
         while (current.id != key) {
             if (key > current.id)
-                current = current.left;
+                current = current.right;
             else
                 current = current.left;
             if (current == null)
