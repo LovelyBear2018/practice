@@ -1,36 +1,33 @@
 package com.lzx.java.algorithm.jzoffer;
 
-import java.util.Arrays;
-
 /**
- * 调整数组顺序使奇数位于偶数前面
- * 
- * @author liuzhixiong 2018年08月17日10:27:23
+ * 剪绳子问题:给你一根长度为n的绳子，请把绳子剪成m段 (m和n都是整数，n>1并且m>1)每段绳子的长度记为k[0],k[1],...,k[m].请问k[0]*k[1]*...*k[m]可能的最大乘积是多少？
+ * Created by liuzhixiong on 2018/11/7.
  */
-
 public class Pro14 {
-	public static void main(String[] args) throws Exception {
-		int[] array = { 1, 2, 3, 4, 5, 6, 7 };
-		Pro14 test = new Pro14();
-		test.order(array);
-		System.out.println(Arrays.toString(array));
-	}
+    public static void main(String[] args) {
+        int n = 8;
+        System.out.println(maxProductAfter(n));
+    }
 
-	public void order(int[] array) {
-		int i = 0;
-		int j = array.length - 1;
-		while(i < j){
-			while(array[i] % 2 == 1){
-				i ++;
-			}
-			while(array[j] % 2 == 0){
-				j --;
-			}
-			if(i < j){
-				int temp = array[i];
-				array[i] = array[j];
-				array[j] = temp;
-			}
-		}
-	}
+    private static int maxProductAfter(int n) {
+        if (n < 2) {
+            return 0;
+        }
+        if (n == 2) {
+            return 1;
+        }
+        if (n == 3) {
+            return 2;
+        }
+        int times3Of = n / 3;
+
+        if (n % 3 == 1) {
+            return (int) Math.pow(3, (times3Of - 1)) * 4;
+        }
+        if (n % 3 == 0) {
+            return (int) Math.pow(3, times3Of);
+        }
+        return (int) Math.pow(3, times3Of) * 2;
+    }
 }

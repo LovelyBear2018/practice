@@ -5,5 +5,5 @@ package com.lzx.java.designpattern.wrapper;
  * Created by liuzhixiong on 2018/10/10.
  */
 public interface Target {
-    void isPs2();
+    void request();
 }

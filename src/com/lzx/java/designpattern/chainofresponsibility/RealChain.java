@@ -2,8 +2,6 @@ package com.lzx.java.designpattern.chainofresponsibility;
 
 import java.util.List;
 
-import com.lzx.java.designpattern.chainofresponsibility.Ratify.Chain;
-
 /**
  * 类描述：实现Chain的真正的包装Request和转发功能
  */
