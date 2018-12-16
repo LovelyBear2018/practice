@@ -27,7 +27,6 @@ public class InsertSort {
 			for(; j>=0 && nums[j] > temp; j--){
 				nums[j+1] = nums[j];
 			}
-			
 			nums[j+1] = temp;
 		}
 	}
