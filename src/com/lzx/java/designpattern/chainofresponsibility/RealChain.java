@@ -28,14 +28,14 @@ public class RealChain implements Chain {
      */
     @Override
     public Result proceed(Request request) {
-        Result proceed = null;
+        Result result = null;
         if (index < ratifyList.size()) {
             RealChain realChain = new RealChain(ratifyList, request, index + 1);
             Ratify ratify = ratifyList.get(index);
-            proceed = ratify.deal(realChain);
+            result = ratify.deal(realChain);
         }
 
-        return proceed;
+        return result;
     }
 
     /**
